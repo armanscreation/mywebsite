@@ -1,0 +1,7 @@
+{
+  "name": "Arman's Creation Portfolio",
+  "description": "A modern, macOS-inspired personal portfolio featuring an auto-sliding gallery, terminal-styled JSON info, and a custom audio player.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
